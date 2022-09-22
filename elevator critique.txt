@@ -1,0 +1,34 @@
+Some of the issues with the elevator are:
+1. The "alarm" button is too easy to press accidentally instead of "open doors".
+2. Harder for people in wheelchairs to use because the panel isn't closer to the floor.
+3. Does not offer audio feedback for blind people to know what floor they pressed.
+4. For elevator operators/firemen, the key controls are all identical looking and could do with better distinction.
+
+Some of the good parts of this design are:
+1. The first floor is at the bottom by itself to indicate its the first floor.
+2. The buttons are each located next to a large font indicator of what floor belongs to each button.
+3. Includes braille for each floor to allow blind people easier use.
+4. Keeps the fire call button high above where the normal operation buttons are located.
+5. Buttons organized in increasing order with each level only having 2 floors.
+
+Use situations for an elevator:
+1. To go up multiple floors without having to use the stairs.
+2. Carry multiple items up to another floor.
+3. Deliver items too large for stairs to other floors.
+4. Allow elderly that have a hard time of walking to get to other floors.
+5. Help handicap people get up and down in a building.
+6. Bring pets up and down if they cannot traverse stairs.
+
+Having a good interface makes a big difference in these situations. An interface that is easy and able to be used, whether blind or with full hands or sat in a wheelchair, is an incredibly useful part of what allows elevators to be helpful in people's lives.
+
+The most common sequence of actions for someone using the elevator is:
+1. Walk inside and locate control panel.
+2. Press the button for the desired floor(s).
+3. If the door does not close quickly, the "close door" button is used.
+4. Wait until the floor is reached.
+5. Wait for the doors to open and then walk out.
+
+In this case, the elevator helps to guide the user with the layout of buttons and the way they are labeled. Not every elevator is the same, so having the controls laid out in a human intuitive way makes using an elevator for the first time easier. By having the ground floor button alone at the bottom, it guides the user into knowing how to get to the bottom floor. Having the other floors in order ascending also makes it easier to follow finding a floor. The large labels also very much help in guiding the user. 
+
+The feedback the elevator provides to the user in this case is the button lighting up once it has been pressed. When passing a floor there is a beep and when arriving there is a loud ding to indicate that the desired floor has been reached.
+
