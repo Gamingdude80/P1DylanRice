@@ -351,3 +351,8 @@ MigrationBackup/
 
 # Mac special files
 .DS_Store
+
+#vscode folder
+.vscode
+out/
+
