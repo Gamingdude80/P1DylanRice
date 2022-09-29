@@ -356,3 +356,5 @@ MigrationBackup/
 .vscode
 out/
 
+#html and css temp files
+*.bak
