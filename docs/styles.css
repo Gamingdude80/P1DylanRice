@@ -1,0 +1,10 @@
+h1 {
+    font-size:35px;
+}
+h2{
+    position: relative;
+    top: -10px;
+}
+section{
+    color:white;
+}

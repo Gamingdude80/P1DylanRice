@@ -32,3 +32,4 @@ In this case, the elevator helps to guide the user with the layout of buttons an
 
 The feedback the elevator provides to the user in this case is the button lighting up once it has been pressed. When passing a floor there is a beep and when arriving there is a loud ding to indicate that the desired floor has been reached.
 
+Some mistakes that can be made with the current design are that open door and close door are a bit low down and if you don't pay close attention to the buttons you may press "door open" instead of "door close" or vice versa. Another mistake could be reaching too low and accidentally hitting the alarm button instead of pressing "door open".
